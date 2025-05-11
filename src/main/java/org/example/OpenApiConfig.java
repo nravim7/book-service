@@ -16,4 +16,5 @@ public class OpenApiConfig {
                         .version("1.0")
                         .description("API documentation for managing books"));
     }
+
 }
